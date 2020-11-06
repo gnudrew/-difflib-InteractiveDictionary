@@ -1,6 +1,6 @@
 # -difflib-InteractiveDictionary
 
-An interactive English dictionary that can detect spelling errors for your entry word and guesses closest matches.
+An interactive English dictionary that returns definitions for words; detects spelling errors and guesses closest match.
 
 ### Packages used:
 > *difflib*
