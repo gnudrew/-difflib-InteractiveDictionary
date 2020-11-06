@@ -1,6 +1,10 @@
 # [difflib]_Interactive_Dictionary
 
-Python Packages used: 
+This app is an English dictionary that can detect spelling errors and closely matching words.
+
+Packages used:
   difflib
 
-This app is an English dictionary that can handle spelling errors and recommend closely matching words.
+To run the app: 
+From CLI, 'py app1.1.py'.
+Follow the prompts.
