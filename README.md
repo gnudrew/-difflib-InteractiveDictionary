@@ -1,4 +1,4 @@
-# [difflib]_Interactive_Dictionary
+# [difflib]_InteractiveDictionary
 
 This app is an English dictionary that can detect spelling errors and closely matching words.
 
