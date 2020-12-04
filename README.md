@@ -1,4 +1,4 @@
-# -difflib-InteractiveDictionary
+# -difflib-SmartDictionary
 
 An interactive English dictionary that returns definitions for words; detects spelling errors and guesses closest match.
 
