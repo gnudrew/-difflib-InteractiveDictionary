@@ -1,6 +1,6 @@
 # -difflib-SmartDictionary
 
-An interactive English dictionary that returns definitions for words; detects spelling errors and guesses closest match.
+An interactive English dictionary app that returns definitions for words; detects spelling errors and guesses closest match.
 
 ### Packages used:
 > *difflib*
